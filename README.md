@@ -13,6 +13,8 @@ Cuprins:
 5. Capturi ecran aplicație (0,25p)
 6. Referințe
 
+----------
+
 1. 	Bentz Stocks este o aplicație mobilă care oferă utilizatorilor săi informații și analize în sfera investițiilor în acțiuni. Aceasta îi ajută pe utilizatori să ia decizii informate în ceea ce privește investițiile lor, oferindu-le acces la analize fundamentale ale acțiunilor, recomandări și informații despre evoluția pieței. Beneficiile acestei aplicații includ posibilitatea de a urmări portofoliul personal de acțiuni, de a căuta și analiza acțiuni, precum și de a primi recomandări personalizate. De asemenea, utilizatorii pot accesa termenii și condițiile de utilizare a aplicației, precum și informații despre creatorul acesteia. Prin intermediul Bentz Stocks, utilizatorii pot obține o mai bună înțelegere a pieței de acțiuni și pot lua decizii mai bine informate în ceea ce privește investițiile lor.
 
 Aplicația prezentată are ca scop facilitarea procesului de investiții pentru utilizatorii săi. Într-o lume în care investițiile sunt din ce în ce mai importante, dar și mai complexe, această aplicație vine în ajutorul celor care doresc să investească în mod inteligent și eficient. 

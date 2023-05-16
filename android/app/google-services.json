@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "633767186427",
+    "firebase_url": "https://bentz-stocks-cloud-computing-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "bentz-stocks-cloud-computing",
+    "storage_bucket": "bentz-stocks-cloud-computing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633767186427:android:a3894e125f9c293827055e",
+        "android_client_info": {
+          "package_name": "ro.bentz.bentz_stocks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633767186427-6s8ag1odp12695abbbihn6juscmfjrtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFTuaU32EC_X52mEZ_B8QbFmPFEvl8r7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633767186427-6s8ag1odp12695abbbihn6juscmfjrtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

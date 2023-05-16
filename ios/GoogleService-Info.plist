@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>633767186427-ll4pv0vmvp3k5d701nlh01ublsl62lpa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.633767186427-ll4pv0vmvp3k5d701nlh01ublsl62lpa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjc0SM0iWkT4y1X279X8qNKnnul1OV5w0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>633767186427</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ro.bentz.bentzStocks</string>
+	<key>PROJECT_ID</key>
+	<string>bentz-stocks-cloud-computing</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bentz-stocks-cloud-computing.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:633767186427:ios:0fc7bfa0845d034227055e</string>
+	<key>DATABASE_URL</key>
+	<string>https://bentz-stocks-cloud-computing-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>
